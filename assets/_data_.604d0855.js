@@ -1,0 +1,1 @@
+import{_ as t}from"./FormMontre.vue_vue_type_script_setup_true_lang.6745839b.js";import{d as e,o,i as n}from"./index.13552ddb.js";const _=e({__name:"[data]",props:{data:null},setup(a){return(r,s)=>(o(),n(t,{data:JSON.parse(a.data)},null,8,["data"]))}});export{_ as default};
